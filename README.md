@@ -54,7 +54,7 @@ The project follows a structured machine learning workflow:
 
 ---
 
-## 🛠Technologies & Libraries Used
+## Technologies & Libraries Used
 
 * **Python 3**
 * **Core Libraries:**
