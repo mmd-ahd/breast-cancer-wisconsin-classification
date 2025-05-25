@@ -1,4 +1,4 @@
-# Breast Cancer Classification Using Machine Learning 🔬
+# Breast Cancer Classification Using Machine Learning 
 
 This project focuses on building and evaluating machine learning models to classify breast cancer tumors as benign (0) or malignant (1) based on the Breast Cancer Wisconsin (Diagnostic) Dataset.
 
